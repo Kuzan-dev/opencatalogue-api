@@ -7,7 +7,7 @@ OpenCatalogueAPI es una API basada en Django para gestionar un catálogo de recu
 ## Requisitos
 
 - Python 3.12
-- venv
+- venv 3.3
 
 ## Instalación
 
